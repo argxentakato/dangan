@@ -1,0 +1,11 @@
+[package]
+name = "dangan"
+version = "0.1.0"
+authors = ["Unuaviro F. Arĝentakato <unuavrio@argxentakato.me>"]
+edition = "2021"
+description = "A JSON Schema validator implementation"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
