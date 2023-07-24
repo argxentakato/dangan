@@ -1,4 +1,9 @@
-# Dangan
+# Dangan &emsp; [![Build status badge]][actions] [![Codecov badge]][codecov]
+
+[Build status badge]: https://img.shields.io/github/actions/workflow/status/argxentakato/dangan/ci.yml?branch=master
+[actions]: https://github.com/argxentakato/dangan/actions?query=branch%3Amaster
+[Codecov badge]: https://img.shields.io/codecov/c/github/argxentakato/dangan
+[codecov]: https://codecov.io/gh/argxentakato/dangan
 
 **Dangan is a JSON Schema validator implementation.**
 
